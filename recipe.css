@@ -16,9 +16,9 @@ h1 {
   text-decoration: underline;
 }
 
-img{
+img.b{
 	width: 180px;
-	hight: 180pxl
+	hight: 180px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -33,13 +33,27 @@ ul {
 	
 	 list-style-type: circle;
 }
-font.underline{
+p.underline{
 	font-size: 15px;
 	font-family:Helvetica;
 	text-decoration: underline;
+	display: inline;
 	
 	
 }
+p.bold{
+	
+	font-weight:bold;
+	display: inline;
+	
+}
 
+p.comment{
+	
+	display: inline 
+
+  font-style: italic;
+  
+}
 
 
