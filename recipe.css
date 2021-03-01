@@ -55,4 +55,8 @@ p.comment{
   
 }
 
-
+.p.right{
+	margin-right:60px;
+	text-align: right;
+	
+}
